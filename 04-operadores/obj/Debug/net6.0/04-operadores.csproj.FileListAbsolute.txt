@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\bin\Debug\net6.0\04-operadores.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\bin\Debug\net6.0\04-operadores.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\bin\Debug\net6.0\04-operadores.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\bin\Debug\net6.0\04-operadores.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\bin\Debug\net6.0\04-operadores.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\refint\04-operadores.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\04-operadores.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\04-operadores\obj\Debug\net6.0\ref\04-operadores.dll

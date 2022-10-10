@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\bin\Debug\net6.0\08-array-lista.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\bin\Debug\net6.0\08-array-lista.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\bin\Debug\net6.0\08-array-lista.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\bin\Debug\net6.0\08-array-lista.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\bin\Debug\net6.0\08-array-lista.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\refint\08-array-lista.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\08-array-lista.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\08-array-lista\obj\Debug\net6.0\ref\08-array-lista.dll

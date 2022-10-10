@@ -1,0 +1,15 @@
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfo.cs
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.deps.json
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.runtimeconfig.json
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/bin/Debug/net6.0/ref/DesafioFundamentos.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.pdb
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/ref/DesafioFundamentos.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.pdb
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/10-estacionamento/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\bin\Debug\net6.0\05-operadores-aritmeticos.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\bin\Debug\net6.0\05-operadores-aritmeticos.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\bin\Debug\net6.0\05-operadores-aritmeticos.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\bin\Debug\net6.0\05-operadores-aritmeticos.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\bin\Debug\net6.0\05-operadores-aritmeticos.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\refint\05-operadores-aritmeticos.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\05-operadores-aritmeticos.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\05-operadores-aritmeticos\obj\Debug\net6.0\ref\05-operadores-aritmeticos.dll

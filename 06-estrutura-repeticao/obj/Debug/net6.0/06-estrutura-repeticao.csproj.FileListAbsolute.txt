@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\bin\Debug\net6.0\06-estrutura-repeticao.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\bin\Debug\net6.0\06-estrutura-repeticao.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\bin\Debug\net6.0\06-estrutura-repeticao.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\bin\Debug\net6.0\06-estrutura-repeticao.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\bin\Debug\net6.0\06-estrutura-repeticao.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\refint\06-estrutura-repeticao.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\06-estrutura-repeticao.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\06-estrutura-repeticao\obj\Debug\net6.0\ref\06-estrutura-repeticao.dll

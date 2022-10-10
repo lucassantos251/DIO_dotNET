@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\bin\Debug\net6.0\03-sintaxe.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\bin\Debug\net6.0\03-sintaxe.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\bin\Debug\net6.0\03-sintaxe.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\bin\Debug\net6.0\03-sintaxe.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\bin\Debug\net6.0\03-sintaxe.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\refint\03-sintaxe.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\03-sintaxe.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\03-sintaxe\obj\Debug\net6.0\ref\03-sintaxe.dll

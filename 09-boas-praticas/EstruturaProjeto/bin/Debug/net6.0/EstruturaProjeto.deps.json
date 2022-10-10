@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EstruturaProjeto/1.0.0": {
+        "dependencies": {
+          "EstruturaComum": "1.0.0"
+        },
+        "runtime": {
+          "EstruturaProjeto.dll": {}
+        }
+      },
+      "EstruturaComum/1.0.0": {
+        "runtime": {
+          "EstruturaComum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstruturaProjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstruturaComum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
