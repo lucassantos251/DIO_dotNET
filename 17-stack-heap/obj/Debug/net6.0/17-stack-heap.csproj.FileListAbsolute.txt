@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\bin\Debug\net6.0\17-stack-heap.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\bin\Debug\net6.0\17-stack-heap.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\bin\Debug\net6.0\17-stack-heap.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\bin\Debug\net6.0\17-stack-heap.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\bin\Debug\net6.0\17-stack-heap.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\refint\17-stack-heap.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\17-stack-heap.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\17-stack-heap\obj\Debug\net6.0\ref\17-stack-heap.dll

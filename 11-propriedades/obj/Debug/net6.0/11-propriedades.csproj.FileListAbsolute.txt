@@ -1,0 +1,30 @@
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.exe
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.deps.json
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.runtimeconfig.json
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.dll
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.pdb
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.csproj.AssemblyReference.cache
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.GeneratedMSBuildEditorConfig.editorconfig
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.AssemblyInfoInputs.cache
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.AssemblyInfo.cs
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.csproj.CoreCompileInputs.cache
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.dll
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/refint/11-propriedades.dll
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.pdb
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.genruntimeconfig.cache
+D:/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/ref/11-propriedades.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.deps.json
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.runtimeconfig.json
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/ref/11-propriedades.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/bin/Debug/net6.0/11-propriedades.pdb
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.csproj.AssemblyReference.cache
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.GeneratedMSBuildEditorConfig.editorconfig
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.AssemblyInfoInputs.cache
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.AssemblyInfo.cs
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.csproj.CoreCompileInputs.cache
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/ref/11-propriedades.dll
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.pdb
+/media/ryzen/HD 1/workspace/bootcamp-dio/DIO_dotNET/11-propriedades/obj/Debug/net6.0/11-propriedades.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\bin\Debug\net6.0\12-propriedades.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\bin\Debug\net6.0\12-propriedades.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\bin\Debug\net6.0\12-propriedades.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\bin\Debug\net6.0\12-propriedades.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\bin\Debug\net6.0\12-propriedades.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\refint\12-propriedades.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\12-propriedades.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\12-manipulando-valores\obj\Debug\net6.0\ref\12-propriedades.dll

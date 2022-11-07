@@ -1,0 +1,17 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\bin\Debug\net6.0\16-tipos-especiais.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\bin\Debug\net6.0\16-tipos-especiais.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\bin\Debug\net6.0\16-tipos-especiais.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\bin\Debug\net6.0\16-tipos-especiais.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\bin\Debug\net6.0\16-tipos-especiais.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\refint\16-tipos-especiais.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\ref\16-tipos-especiais.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\16-tipos-especiais\obj\Debug\net6.0\16-tipos-especiais.csproj.CopyComplete

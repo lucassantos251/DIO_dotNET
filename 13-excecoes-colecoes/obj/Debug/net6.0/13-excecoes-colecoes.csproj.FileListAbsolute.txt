@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\bin\Debug\net6.0\13-excecoes-colecoes.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\bin\Debug\net6.0\13-excecoes-colecoes.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\bin\Debug\net6.0\13-excecoes-colecoes.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\bin\Debug\net6.0\13-excecoes-colecoes.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\bin\Debug\net6.0\13-excecoes-colecoes.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\refint\13-excecoes-colecoes.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\13-excecoes-colecoes.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\13-excecoes-colecoes\obj\Debug\net6.0\ref\13-excecoes-colecoes.dll

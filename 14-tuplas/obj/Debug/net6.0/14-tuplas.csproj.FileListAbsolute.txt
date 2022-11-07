@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\bin\Debug\net6.0\14-tuplas.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\bin\Debug\net6.0\14-tuplas.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\bin\Debug\net6.0\14-tuplas.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\bin\Debug\net6.0\14-tuplas.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\bin\Debug\net6.0\14-tuplas.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\refint\14-tuplas.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\14-tuplas.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\14-tuplas\obj\Debug\net6.0\ref\14-tuplas.dll
