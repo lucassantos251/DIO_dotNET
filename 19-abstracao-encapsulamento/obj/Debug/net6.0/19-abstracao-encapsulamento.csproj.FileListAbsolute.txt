@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\bin\Debug\net6.0\19-abstracao-encapsulamento.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\bin\Debug\net6.0\19-abstracao-encapsulamento.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\bin\Debug\net6.0\19-abstracao-encapsulamento.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\bin\Debug\net6.0\19-abstracao-encapsulamento.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\bin\Debug\net6.0\19-abstracao-encapsulamento.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\refint\19-abstracao-encapsulamento.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\19-abstracao-encapsulamento.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\19-abstracao-encapsulamento\obj\Debug\net6.0\ref\19-abstracao-encapsulamento.dll

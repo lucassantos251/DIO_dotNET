@@ -1,0 +1,15 @@
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\bin\Debug\net6.0\20-heranca-polimorfismo.exe
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\bin\Debug\net6.0\20-heranca-polimorfismo.deps.json
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\bin\Debug\net6.0\20-heranca-polimorfismo.runtimeconfig.json
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\bin\Debug\net6.0\20-heranca-polimorfismo.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\bin\Debug\net6.0\20-heranca-polimorfismo.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.csproj.AssemblyReference.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.AssemblyInfoInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.AssemblyInfo.cs
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.csproj.CoreCompileInputs.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\refint\20-heranca-polimorfismo.dll
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.pdb
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\20-heranca-polimorfismo.genruntimeconfig.cache
+D:\workspace\bootcamp-dio\DIO_dotNET\20-heranca-polimorfismo\obj\Debug\net6.0\ref\20-heranca-polimorfismo.dll
